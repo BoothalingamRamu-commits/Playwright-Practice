@@ -1,0 +1,21 @@
+{
+    "username":"ramu";
+    "password" : "";
+    "assertion":{
+        "url":
+    }
+}
+
+//after this one we have to write inside the array 3 objects should be written
+[
+    {
+        "username":username
+        
+    },
+    {
+        "username":
+    },
+    {
+        "username"
+    }
+]

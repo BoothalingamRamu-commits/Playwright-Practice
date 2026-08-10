@@ -1,0 +1,7 @@
+{
+    "searchProduct": "Mobiles",
+    "minPrice": 20000,
+    "maxPrice": 60000,
+    "screenshotPath": "screenshots/amazon-checkout.png"
+
+}
